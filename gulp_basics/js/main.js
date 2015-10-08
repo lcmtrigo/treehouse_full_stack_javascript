@@ -17,3 +17,5 @@ $('.main-heading').on('sticky-end', function () {
     border: 'none'
   });
 });
+
+console.log("I am the new main.js file");

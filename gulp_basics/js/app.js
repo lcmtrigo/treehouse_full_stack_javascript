@@ -10537,4 +10537,6 @@ $('.main-heading').on('sticky-end', function () {
   });
 });
 
+console.log("I am the new main.js file");
+
 //# sourceMappingURL=app.js.map
